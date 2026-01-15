@@ -88,15 +88,21 @@ video{
 .Reservetable{
     width: 300px;
     height:max-content;
-    border: 2px solid black;
+    border: 4px solid black;
     border-radius: 20px;
     background-color: rgb(218, 224, 229);
     opacity: 0.4;
-    margin-right: 10px;
-    margin-top: -400px;
+   
     float: right;
+
+    position: fixed;
+    right: 40px;
+    top: 130px;
+    
+  
    
 }
+
 
 .Reservetable h1{
     text-align: center;
